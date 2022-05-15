@@ -1,6 +1,6 @@
-# DSA
+# Programming
 ---
-Data Structure files for Interviews
+A Repo for Different Languages and related snippets.
 
 - [ ] [justmeandopensource](https://github.com/justmeandopensource)
 - [ ] [package.json](https://docs.npmjs.com/cli/v7/configuring-npm/package-json)
