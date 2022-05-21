@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Noise HeatMap Visual</title>
+<meta name="viewport" content="initial-scale=1.0">
+<meta charset="utf-8">
+
+<link rel="stylesheet" type="text/css" href="gmap.css">
+<script async defer src="https://maps.googleapis.com/maps/api/js?libraries=visualization&callback=initMap"></script>
+<script type="text/javascript" src="gmap.js"></script>
+</head>
+
+  <body>
+    <div id="floating-panel">
+      <button onclick="toggleHeatmap()">Toggle Hazard</button>
+      <button onclick="toggleHeatmap()">Toggle Map type</button>
+      <button onclick="toggleHeatmap()">Toggle Heatmap</button>
+      <button onclick="changeGradient()">Change gradient</button>
+      <button onclick="changeRadius()">Change radius</button>
+      <button onclick="changeOpacity()">Change opacity</button>
+    </div>
+    <div id="map"></div>
+  </body>
+</html>
