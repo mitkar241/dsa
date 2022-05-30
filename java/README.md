@@ -1,2 +1,30 @@
 # README
 ---
+
+- [ ] Linear Data Structures
+  - [ ] Array
+    - [ ] Single dimensional Array
+    - [ ] Multidimensional Array
+  - [ ] Linked List
+    - [ ] Singly linked list
+    - [ ] Doubly Linked list
+    - [ ] Circular Linked List
+  - [ ] Stack
+    - [ ] Stack – using Array
+	- [ ] Stack – using LinkedList
+  - [ ] Queue
+    - [ ] Queue- using Array
+    - [ ] Queue- using LinkedList
+- [ ] Non-Linear Data Structures
+  - [ ] Tree
+    - [ ] Binary Tree
+    - [ ] Binary Search Tree
+    - [ ] AVL Tree
+    - [ ] Red-Black Tree
+  - [ ] Graph
+  - [ ] Heap
+    - [ ] MaxHeap
+    - [ ] MinHeap
+  - [ ] Hash
+    - [ ] HashSet
+    - [ ] HashMap
