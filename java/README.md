@@ -1,30 +1,51 @@
 # Java
 ---
 
-- [ ] Linear Data Structures
-  - [ ] Array
-    - [ ] Single dimensional Array
-    - [ ] Multidimensional Array
-  - [ ] Linked List
-    - [ ] Singly linked list
-    - [ ] Doubly Linked list
-    - [ ] Circular Linked List
-  - [ ] Stack
-    - [ ] Stack – using Array
-	- [ ] Stack – using LinkedList
-  - [ ] Queue
-    - [ ] Queue- using Array
-    - [ ] Queue- using LinkedList
-- [ ] Non-Linear Data Structures
-  - [ ] Tree
-    - [ ] Binary Tree
-    - [ ] Binary Search Tree
-    - [ ] AVL Tree
-    - [ ] Red-Black Tree
-  - [ ] Graph
-  - [ ] Heap
-    - [ ] MaxHeap
-    - [ ] MinHeap
-  - [ ] Hash
-    - [ ] HashSet
-    - [ ] HashMap
+### Linear Data Structures
+---
+- [ ] Array
+  - [ ] ArrayList
+  - [ ] Single dimensional Array
+  - [ ] Matrix
+  - [ ] Multidimensional Array
+- [ ] Set
+- [ ] Linked List
+  - [ ] LinkedList
+  - [ ] Singly linked list
+  - [ ] Doubly Linked list
+  - [ ] Circular Linked List
+- [ ] Stack
+  - [ ] Stack using Array
+  - [ ] Stack using LinkedList
+- [ ] Queue
+  - [ ] Queue using Array
+  - [ ] Queue using LinkedList
+  - [ ] Circular Queue
+
+### Non-Linear Data Structures
+---
+- [ ] Tree
+  - [ ] Binary Tree
+  - [ ] Binary Tree Traversal
+  - [ ] Binary Search Tree
+  - [ ] B Tree
+  - [ ] B+ Tree
+  - [ ] AVL Tree
+  - [ ] Red-Black Tree
+- [ ] Graph
+  - [ ] Graph Implementation
+  - [ ] Graph Traversal
+    - [ ] BFS
+    - [ ] DFS
+  - [ ] Spanning Tree
+    - [ ] Prim's Algorithm
+    - [ ] Kruskal's Algorithm
+  - [ ] Minimum Spanning Tree
+- [ ] Trie
+- [ ] Heap
+  - [ ] MaxHeap
+  - [ ] MinHeap
+- [ ] Hashing
+  - [ ] HashSet
+  - [ ] HashMap
+  - [ ] LinkedHashMap
