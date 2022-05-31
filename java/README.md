@@ -4,20 +4,21 @@
 ### Linear Data Structures
 ---
 - [ ] Array
-  - [ ] ArrayList
+  - [ ] ArrayList - `builtin`
   - [ ] Single dimensional Array
   - [ ] Matrix
   - [ ] Multidimensional Array
-- [ ] Set
 - [ ] Linked List
-  - [ ] LinkedList
+  - [ ] LinkedList - `builtin`
   - [ ] Singly linked list
   - [ ] Doubly Linked list
   - [ ] Circular Linked List
 - [ ] Stack
+  - [ ] Stack - `builtin`
   - [ ] Stack using Array
   - [ ] Stack using LinkedList
 - [ ] Queue
+  - [ ] Queue - `builtin`
   - [ ] Queue using Array
   - [ ] Queue using LinkedList
   - [ ] Circular Queue
@@ -46,6 +47,6 @@
   - [ ] MaxHeap
   - [ ] MinHeap
 - [ ] Hashing
-  - [ ] HashSet
-  - [ ] HashMap
+  - [ ] HashSet - `builtin`
+  - [ ] HashMap - `builtin`
   - [ ] LinkedHashMap
