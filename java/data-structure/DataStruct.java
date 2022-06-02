@@ -9,6 +9,7 @@ class DataStruct {
     DataStruct ds = new DataStruct();
 
     ds.testDataType();
+    ds.testArray();
 	}
 
   public void testDataType() {
@@ -47,5 +48,23 @@ class DataStruct {
 
     dataType.setString("testing");
 	  System.out.println(dataType.getString());
+	}
+
+  public void testArray() {
+    Array array = new Array();
+
+    int[] arrint = {5, 1, 3};
+    array.setArrint(arrint);
+    for (int elem: array.getArrint()) {
+      System.out.printf("%d, ", elem);
+    }
+    System.out.println("");
+
+    String[] arrString = {"this", "is", "test", "string"};
+    array.setArrString(arrString);
+    for (String elem: array.getArrString()) {
+      System.out.printf("%s, ", elem);
+    }
+    System.out.println("");
 	}
 }
