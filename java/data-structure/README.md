@@ -28,7 +28,9 @@ Data Type
 ### Linear Data Structures
 ---
 - [ ] Array
-  - [ ] ArrayList - `builtin`
+  - [X] Array
+  - [X] List - `builtin`
+  - [X] ArrayList - `builtin`
   - [ ] Single dimensional Array
   - [ ] Matrix
   - [ ] Multidimensional Array
