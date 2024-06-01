@@ -1,0 +1,20 @@
+Welcome to the Tcl tutorial. We wrote it with the goal of helping you to learn Tcl. It is aimed at those who have some knowledge of programming, although you certainly don't have to be an expert. The tutorial is intended as a companion to the Tcl manual pages which provide a reference for all Tcl commands.
+
+It is divided into brief sections covering different aspects of the language. Depending on what system you are on, you can always look up the reference documentation for commands that you are curious about. On Unix for example, man while would bring up the man page for the while command.
+
+Each section is accompanied by relevant examples showing you how to put to use the material covered.
+
+Additional Resources
+The Tcl community is an exceedingly friendly one. It's polite to try and figure things out yourself, but if you're struggling, we're more than willing to help. Here are some good places to get help:
+
+The comp.lang.tcl newsgroup. Accessible via a newsreader, or Google Groups.
+The Wiki has a great deal of useful code, examples and discussions of the finer points of Tcl usage.
+If you need help right away, there is often someone on the #tcl channel on irc.freenode.net who can help you out, but please don't be impatient if no one can help you instantly - if you need that level of support, consider hiring a consultant.
+There are several recommended books for those who wish to gain more in-depth knowledge of Tcl. Clif Flynt, the original author of this tutorial is also the author of Tcl/Tk: A Developer's Guide. Other popular books: Practical Programming in Tcl and Tk.
+Credits
+Thanks first and foremost to Clif Flynt for making his material available under a BSD license. The following people also contributed:
+
+Neil Madden
+Arjen Markus
+David N. Welton
+Of course, we also welcome comments and suggestions about how it could be improved - or if it's great the way it is, we don't mind a bit of thanks, either!
